@@ -1,0 +1,39 @@
+body {
+  background-color: #964594;
+}
+
+#logo {
+  margin: 50px;
+  height: 200px;
+  background: url("img/logo.png") center center no-repeat transparent;
+}
+
+#white {
+  background: white;
+  color: #964594;
+  text-align: right;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 37px;
+  font-variant: small-caps;
+}
+
+#white a:hover {
+  color: #F97242;
+}
+
+#white a {
+  color: #964594;
+}
+
+#foot {
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  margin: 50px auto;
+}
+
+.narrow {
+  width: 800px; 
+  margin: auto;
+}
